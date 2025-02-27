@@ -22,19 +22,19 @@ My name is Phong Nguyen. Hi, I'm Phong, Frontend Developer. Passionate about des
 
 <a href="https://github.com/PhongNguyen1210/PhongNguyen-Porfolio">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=PhongNguyen-Porfolio&theme=merko" />
 </a>    
-<a href="https://github.com/vietnh1009/ASCII-generator/">
+<a href="https://github.com/PhongNguyen1210/pirate-animation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=pirate-animation&theme=merko" />
 </a>
 
-<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/PhongNguyen1210/Doritos-Chips-PhongNguyen">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=Doritos-Chips-PhongNguyen&theme=gruvbox" />
 </a>    
-<a href="https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/PhongNguyen1210/VN-Travel-PhongNguyen">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=VN-Travel-PhongNguyen&theme=dark" />
 </a>
 
