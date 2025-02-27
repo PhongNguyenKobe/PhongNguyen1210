@@ -6,11 +6,10 @@ My name is Phong Nguyen. Hi, I'm Phong, Frontend Developer. Passionate about des
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://phongnguyen1210.github.io/PhongNguyen-Porfolio/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github.com/PhongNguyen1210/PhongNguyen-Porfolio" />
 </a>    
 <a href="https://phongnguyen1210.github.io/Doritos-Chips-PhongNguyen/#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
