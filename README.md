@@ -2,6 +2,7 @@
 My name is Phong Nguyen. Hi, I'm Phong, Frontend Developer. Passionate about designing beautiful web interfaces. Living from Việt Nam.<br>
 ## 📫 How to reach me: 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhongNguyen1210&show_icons=true&theme=radical)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gnohpgn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29825999/phong-thanh) 
