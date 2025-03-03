@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Phong Nguyen. Hi, I'm Phong, Frontend Developer 💫. Passionate about designing beautiful web interfaces. Living from Việt Nam.<br>
+Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfaces. Aspiring Frontend Developer 💫. Living in Việt Nam..<br>
 ## 📫 How to reach me: 
 
 
