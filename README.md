@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfaces. Aspiring Frontend Developer 💫. Living in Việt Nam..<br>
+Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfaces. Aspiring Frontend Developer 💫. Living in Việt Nam.<br>
 ## 📫 How to reach me: 
 
 
