@@ -20,20 +20,20 @@ Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfa
 [![](https://visitcount.itsvg.in/api?id=PhongNguyen1210&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<a href="https://github.com/PhongNguyen1210/PhongNguyen-Porfolio">
+<a href="https://github.com/PhongNguyenKobe/PhongNguyen-Porfolio">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=PhongNguyen-Porfolio&theme=merko" />
 </a>    
-<a href="https://github.com/PhongNguyen1210/pirate-animation">
+<a href="https://github.com/PhongNguyenKobe/pirate-animation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=pirate-animation&theme=merko" />
 </a>
 
-<a href="https://github.com/PhongNguyen1210/Doritos-Chips-PhongNguyen">
+<a href="https://github.com/PhongNguyenKobe/Doritos-Chips-PhongNguyen">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=Doritos-Chips-PhongNguyen&theme=gruvbox" />
 </a>    
-<a href="https://github.com/PhongNguyen1210/VN-Travel-PhongNguyen">
+<a href="https://github.com/PhongNguyenKobe/VN-Travel-PhongNguyen">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyen1210&repo=VN-Travel-PhongNguyen&theme=dark" />
 </a>
