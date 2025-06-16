@@ -38,3 +38,7 @@ Hi, I'm Phong Nguyen, a student passionate about designing beautiful web interfa
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyenKobe&repo=VN-Travel-PhongNguyen&theme=dark" />
 </a>
 
+<a href="https://github.com/PhongNguyenKobe/Responsive-Car-website-PhongCar">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhongNguyenKobe&repo=Responsive-Car-website-PhongCar&theme=tokyonight" />
+</a>
